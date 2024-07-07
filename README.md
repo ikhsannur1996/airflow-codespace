@@ -39,7 +39,7 @@ Access the main UI of Airflow by clicking on the Ports tab and opening the forwa
 ```bash
 https://ideal-meme-6rg6gqq554j25vq9-8080.app.github.dev:8080/home
 ```
-Remove the :8080 from the URL and the web UI will run again.
+Remove the **:8080** from the URL and the web UI will run again.
 ```bash
 https://ideal-meme-6rg6gqq554j25vq9-8080.app.github.dev/home
 ```
