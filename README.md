@@ -4,7 +4,7 @@
 ### Introduction
 ----------------
 
-Apache Airflow is a powerful workflow management platform designed for data engineering pipelines. It allows users to programmatically define, schedule, and monitor workflows. In this guide, we will explore how to run Airflow using GitHub Codespaces, a cloud-based development environment provided by GitHub.
+Apache Airflow is a powerful workflow management platform designed for data engineering pipelines. It allows users to programmatically define, schedule, and monitor workflows. In this guide, we will explore how to run Airflow using GitHub Codespaces, a cloud-based development environment provided by GitHub. By using GitHub Codespaces, you can run this Airflow project without installing anything locally[1][2].
 
 ### Step 1: Fork the Repository
 Fork this repository on GitHub.
@@ -66,9 +66,9 @@ After successful login, the main UI will be shown.
 
 ### References
 --------------
-
 - **Apache Airflow Documentation**: https://airflow.apache.org/docs/apache-airflow/2.0.2/index.html
 - **Docker Documentation**: https://docs.docker.com/get-started/
 
 Citations:
 [1] https://github.com/TJaniF/airflow-elt-blueprint
+[2] https://github.com/astronomer/astro-cli-codespaces
