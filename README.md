@@ -35,7 +35,19 @@ docker-compose up
 This command will start the scheduler, webserver, worker, and other services defined in the `docker-compose.yaml` file.
 
 ### Step 6: Access the Airflow UI
-Access the Airflow UI by clicking on the **Ports** tab and opening the forward URL for port 8080.
+Access the main UI of Airflow by clicking on the Ports tab and opening the forward URL for port 8080. If there is an error, check the URL for example:
+```bash
+https://ideal-meme-6rg6gqq554j25vq9-8080.app.github.dev:8080/home
+```
+Remove the :8080 from the URL and the web UI will run again.
+```bash
+https://ideal-meme-6rg6gqq554j25vq9-8080.app.github.dev/home
+```
+### Step 7: Log in to Airflow
+Log in to the Airflow UI using the credentials user: **airflow** and password:**airflow**.
+
+### Step 8: The Main UI of Airflow
+After successful login, the main UI will be shown.
 
 ### References
 --------------
