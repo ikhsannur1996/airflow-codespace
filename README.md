@@ -1,5 +1,3 @@
-Here is the revised document with the commands in Bash format and the modifications to run Airflow without Astronomer:
-
 **Running Apache Airflow with GitHub Codespaces**
 ================================================
 
@@ -15,7 +13,7 @@ Apache Airflow is a powerful workflow management platform designed for data engi
 Fork the Airflow repository on GitHub.
 
 ### Step 2: Create a New Codespaces Project
-Create a new GitHub Codespaces project on your fork. Ensure it uses at least 4 cores.
+Create a new GitHub Codespaces project on your fork. Ensure it uses at least 2 cores.
 
 ### Step 3: Start the Airflow Project
 Open Terminal in Code Space and run the following command:
