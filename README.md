@@ -12,8 +12,7 @@ Fork this repository on GitHub.
 ### Step 2: Create a New Codespaces Project
 Create a new GitHub Codespaces project on your fork. Ensure it uses at least 2 cores.
 
-![image](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/6d0decc7-dee7-4309-ac2a-bdf0293ef34a)
-
+![Screenshot (384)](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/097e99ad-b186-4fa4-8c6a-b12655deafba)
 
 ![image](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/da88544c-e882-47e8-b479-4f6c081477fc)
 
