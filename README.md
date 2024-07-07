@@ -13,9 +13,10 @@ Fork this repository on GitHub.
 Create a new GitHub Codespaces project on your fork. Ensure it uses at least 2 cores.
 
 ### Step 3: Create Subdirectories
-Inside the directory, create three subdirectories: `dags`, `logs`, and `plugins`. These will be used to store DAG files, logs, and plugins respectively:
+Inside the directory, create three subdirectories: `dags`, `logs`, `plugins` and config. These will be used to store DAG files, logs, and plugins respectively:
 ```bash
-mkdir dags logs plugins
+mkdir -p ./dags ./logs ./plugins ./config
+echo -e "AIRFLOW_UID=$(id -u)" > .env
 ```
 
 ### Step 4: Initialize Airflow Database
