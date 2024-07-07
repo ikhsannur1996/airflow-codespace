@@ -10,7 +10,7 @@ Apache Airflow is a powerful workflow management platform designed for data engi
 --------------
 
 ### Step 1: Fork the Repository
-Fork the Airflow repository on GitHub.
+Fork this repository on GitHub.
 
 ### Step 2: Create a New Codespaces Project
 Create a new GitHub Codespaces project on your fork. Ensure it uses at least 2 cores.
