@@ -32,9 +32,7 @@ docker-compose up airflow-init
 ```
 This command will create the necessary database schema for Airflow.
 
-![image](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/a49306fd-1222-4321-8d75-2972664cf371)
-
-
+![Screenshot (389)](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/c2825c80-d2f3-4a00-be21-61f95fe81459)
 
 ### Step 5: Start Airflow Services
 Start all Airflow services by running the following command:
@@ -43,13 +41,11 @@ docker-compose up
 ```
 This command will start the scheduler, webserver, worker, and other services defined in the `docker-compose.yaml` file.
 
-
-![image](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/4de3a603-6c93-43cf-92a9-9afc242bae68)
-
+![Screenshot (395)](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/bcc01892-d708-4279-b2a0-7007a451651b)
 
 ### Step 6: Access the Airflow UI
 Access the main UI of Airflow by clicking on the Ports tab and opening the forward URL for port 8080. 
-![image](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/941804da-5c0d-4d7d-8f21-39791308c85b)
+![Screenshot (398)](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/4d770bc0-17cd-4d48-bca8-38884b8e4ce8)
 
 If there is an error, check the URL for example:
 ```bash
@@ -61,12 +57,11 @@ https://ideal-meme-6rg6gqq554j25vq9-8080.app.github.dev/home
 ```
 ### Step 7: Log in to Airflow
 Log in to the Airflow UI using the credentials user: **airflow** and password:**airflow**.
-![image](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/03f6d366-9c31-4605-a353-c4eae56da6c0)
-
+![Screenshot (399)](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/c092d0a4-2af7-48f0-a6c2-9afa7f61958a)
 
 ### Step 8: The Main UI of Airflow
 After successful login, the main UI will be shown.
-![image](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/eea5383c-ab70-48da-afe0-9eae828ee966)
+![Screenshot (402)](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/87bb868d-f91b-483c-a1dc-8d811c634571)
 
 
 ### References
