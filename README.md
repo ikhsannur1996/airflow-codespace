@@ -14,7 +14,7 @@ Create a new GitHub Codespaces project on your fork. Ensure it uses at least 2 c
 
 ![Screenshot (384)](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/097e99ad-b186-4fa4-8c6a-b12655deafba)
 
-![image](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/da88544c-e882-47e8-b479-4f6c081477fc)
+![Screenshot (385)](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/c2ef5a17-2862-4948-8033-42fc29aab90f)
 
 ### Step 3: Create Subdirectories
 Inside the directory, create three subdirectories: `dags`, `logs`, `plugins` and config. These will be used to store DAG files, logs, and plugins respectively:
