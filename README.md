@@ -22,9 +22,7 @@ Inside the directory, create three subdirectories: `dags`, `logs`, `plugins` and
 mkdir -p ./dags ./logs ./plugins ./config
 echo -e "AIRFLOW_UID=$(id -u)" > .env
 ```
-
-![image](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/ff475473-c753-49dd-91b4-23ff9484db2b)
-
+![Screenshot (398)](https://github.com/ikhsannur1996/airflow-codespace/assets/32507742/978857f3-3fa4-4730-a57a-28353342dac5)
 
 ### Step 4: Initialize Airflow Database
 Initialize the Airflow database by running the following command:
