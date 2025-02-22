@@ -1,4 +1,4 @@
-**Running Apache Airflow 2.10.3 with GitHub Codespaces**
+**Running Apache Airflow 2.10.5 with GitHub Codespaces**
 ================================================
 
 ### Introduction
