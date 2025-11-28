@@ -28,7 +28,7 @@ echo -e "AIRFLOW_UID=$(id -u)" > .env
 ### Step 4: Initialize Airflow Database
 Initialize the Airflow database by running the following command:
 ```bash
-docker-compose up airflow-init
+docker compose up airflow-init
 ```
 This command will create the necessary database schema for Airflow.
 
@@ -37,7 +37,7 @@ This command will create the necessary database schema for Airflow.
 ### Step 5: Start Airflow Services
 Start all Airflow services by running the following command:
 ```bash
-docker-compose up
+docker compose up
 ```
 This command will start the scheduler, webserver, worker, and other services defined in the `docker-compose.yaml` file.
 
